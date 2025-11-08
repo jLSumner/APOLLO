@@ -1,0 +1,216 @@
+{
+  "plugin_dictionaries": {
+    "generic": {
+      "status_codes": [
+        "Operational",
+        "Error",
+        "Offline",
+        "SPECIAL",
+        "[HEARTBEAT]"
+      ],
+      "command_templates": {
+        "ack_heartbeat": {
+          "name": "Acknowledge Heartbeat",
+          "priority": "LOW",
+          "has_level": false,
+          "level": 0
+        },
+        "REBOOT_LOW": {
+          "name": "REBOOT",
+          "priority": "LOW",
+          "has_level": true,
+          "level": 5
+        },
+        "reboot_core": {
+          "name": "reboot",
+          "priority": "LOW",
+          "has_level": false,
+          "level": 0
+        },
+        "run_diagnostics": {
+          "name": "run_diagnostics",
+          "priority": "LOW",
+          "has_level": true,
+          "level": 1
+        },
+        "REBOOT_MED": {
+          "name": "REBOOT",
+          "priority": "MED",
+          "has_level": true,
+          "level": 5
+        },
+        "REBOOT_HIGH": {
+          "name": "REBOOT",
+          "priority": "HIGH",
+          "has_level": true,
+          "level": 5
+        }
+      }
+    },
+    "ARC": {
+      "status_codes": [
+        "DOOR_OPEN",
+        "DOOR_CLOSED",
+        "DOOR_LOCKED",
+        "DOOR_UNLOCKED",
+        "DOOR_FORCED_OPEN",
+        "DOOR_JAMMED",
+        "DOOR_OBSTRUCTED",
+        "DOOR_UNKNOWN",
+        "ACCESS_DENIED",
+        "UNAUTHORISED_ACCESS_ATTEMPT",
+        "ALARM_TRIGGERED",
+        "DOOR_HELD_OPEN_TOO_LONG",
+        "EMERGENCY_OVERRIDE",
+        "TAMPER_DETECTED",
+        "POWER_FAILURE",
+        "NETWORK_DISCONNECTED",
+        "SYSTEM_STARTUP",
+        "SYSTEM_MAINTENANCE",
+        "IDLE",
+        "STANDBY",
+        "SECURE_MODE_ACTIVE",
+        "LOCKDOWN_MODE_ACTIVE",
+        "LOCKDOWN_MODE_INACTIVE"
+      ],
+      "command_templates": {
+        "UNLOCK_DOOR": {
+          "name": "UNLOCK_DOOR",
+          "priority": "MED",
+          "has_level": false,
+          "level": 0
+        },
+        "LOG_STATUS": {
+          "name": "LOG_STATUS",
+          "priority": "HIGH",
+          "has_level": false,
+          "level": 0
+        },
+        "DISABLE_EMERGENCY_ACCESS": {
+          "name": "DISABLE_EMERGENCY_ACCESS",
+          "priority": "MED",
+          "has_level": false,
+          "level": 0
+        },
+        "BYPASS_DOOR": {
+          "name": "BYPASS_DOOR",
+          "priority": "HIGH",
+          "has_level": false,
+          "level": 0
+        },
+        "ACTIVATE_LOCKDOWN": {
+          "name": "ACTIVATE_LOCKDOWN",
+          "priority": "HIGH",
+          "has_level": true,
+          "level": 5
+        },
+        "RESTORE_DOOR": {
+          "name": "RESTORE_DOOR",
+          "priority": "MED",
+          "has_level": false,
+          "level": 0
+        },
+        "LOCK_DOOR": {
+          "name": "LOCK_DOOR",
+          "priority": "MED",
+          "has_level": false,
+          "level": 0
+        },
+        "ISOLATE_DOOR": {
+          "name": "ISOLATE_DOOR",
+          "priority": "HIGH",
+          "has_level": false,
+          "level": 0
+        },
+        "RETRY_LOCK": {
+          "name": "RETRY_LOCK",
+          "priority": "MED",
+          "has_level": false,
+          "level": 0
+        },
+        "RESET_DOOR": {
+          "name": "RESET_DOOR",
+          "priority": "HIGH",
+          "has_level": false,
+          "level": 0
+        },
+        "OPEN_DOOR": {
+          "name": "OPEN_DOOR",
+          "priority": "LOW",
+          "has_level": false,
+          "level": 0
+        },
+        "TEST": {
+          "name": "TEST",
+          "priority": "LOW",
+          "has_level": false,
+          "level": 0
+        },
+        "ENABLE_EMERGENCY_ACCESS": {
+          "name": "ENABLE_EMERGENCY_ACCESS",
+          "priority": "HIGH",
+          "has_level": false,
+          "level": 0
+        },
+        "CLOSE_DOOR": {
+          "name": "CLOSE_DOOR",
+          "priority": "LOW",
+          "has_level": false,
+          "level": 0
+        },
+        "ENABLE_ACCESS": {
+          "name": "ENABLE_ACCESS",
+          "priority": "LOW",
+          "has_level": false,
+          "level": 0
+        },
+        "SEND_HEARTBEAT": {
+          "name": "SEND_HEARTBEAT",
+          "priority": "HIGH",
+          "has_level": true,
+          "level": 1
+        },
+        "CLEAR_ALARM": {
+          "name": "CLEAR_ALARM",
+          "priority": "HIGH",
+          "has_level": false,
+          "level": 0
+        },
+        "DISABLE_ACCESS": {
+          "name": "DISABLE_ACCESS",
+          "priority": "HIGH",
+          "has_level": false,
+          "level": 0
+        },
+        "RETRY_UNLOCK": {
+          "name": "RETRY_UNLOCK",
+          "priority": "MED",
+          "has_level": false,
+          "level": 0
+        },
+        "DEACTIVATE_LOCKDOWN": {
+          "name": "DEACTIVATE_LOCKDOWN",
+          "priority": "MED",
+          "has_level": false,
+          "level": 0
+        }
+      }
+    },
+    "LSS": {
+      "status_codes": [
+        "Nominal",
+        "HighCO2",
+        "LowOxygen",
+        "BIOHAZARD_DETECTED"
+      ],
+      "command_templates": {
+        "decon_cycle": {
+          "name": "Activate Decontamination Cycle",
+          "priority": "",
+          "has_level": false,
+          "level": 0
+        }
+      }
+    }
+  }
+}

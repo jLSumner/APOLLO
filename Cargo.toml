@@ -1,0 +1,31 @@
+[package]
+name = "apollo_mainframe"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# For the gRPC Server & Communication
+tokio = { version = "1", features = ["full"] }
+tokio-stream = "0.1"
+tonic = "0.11"
+prost = "0.12"
+
+# For the Terminal User Interface (TUI)
+ratatui = { version = "0.26", features = ["all-widgets"] }
+crossterm = "0.27"
+tui-input = "0.8.0"
+
+# For Data Handling & Serialization
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+uuid = { version = "1.8", features = ["v4", "serde"] }
+itertools = "0.12"
+
+# For Logging
+log = "0.4"
+fern = { version = "0.6", features = ["date-based"] }
+chrono = "0.4"
+
+# Dependencies for the build.rs script
+[build-dependencies]
+tonic-build = "0.11"

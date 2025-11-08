@@ -1,0 +1,31 @@
+[2025-08-14 08:50:07] [apollo_mainframe] [CORE] Running daily log cleanup task...
+[2025-08-14 08:50:07] [apollo_mainframe] [CORE] Loading APOLLO plugin configuration...
+[2025-08-14 08:50:07] [apollo_mainframe] [CORE] Plugin configuration loaded successfully.
+[2025-08-14 08:50:07] [apollo_mainframe] [CORE] Loading APOLLO directive configuration...
+[2025-08-14 08:50:07] [apollo_mainframe] [CORE] Directive configuration loaded successfully.
+[2025-08-14 08:50:07] [apollo_mainframe] [CORE] Loading APOLLO directive dictionary...
+[2025-08-14 08:50:07] [apollo_mainframe] [CORE] Directive dictionary loaded successfully.
+[2025-08-14 08:50:07] [apollo_mainframe] [gRPC] Server listening on [::1]:50051
+[2025-08-14 08:51:45] [apollo_mainframe::ui] [AUTH] Successful login for user 'Administrator'
+[2025-08-14 08:51:53] [apollo_mainframe::ui] [AUTH] User logged out
+[2025-08-14 08:54:47] [apollo_mainframe::grpc] [gRPC] Received handshake from entity: ARC_MED_DOOR001
+[2025-08-14 08:54:47] [apollo_mainframe::grpc] [gRPC] Authentication successful for ARC_MED_DOOR001
+[2025-08-14 08:54:47] [apollo_mainframe::grpc] [STATE] Added 'ARC_MED_DOOR001' to active plugins. Total: 1
+[2025-08-14 08:54:52] [apollo_mainframe::grpc] [gRPC] Command channel registered for 'ARC_MED_DOOR001'
+[2025-08-14 08:54:57] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-14 08:55:02] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-14 08:55:02] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"command":"run_diagnostics","level":"1"} -> Target: ARC_MED_DOOR001
+[2025-08-14 08:55:07] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-14 08:55:12] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-14 08:55:12] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"command":"run_diagnostics","level":"1"} -> Target: ARC_MED_DOOR001
+[2025-08-14 08:55:17] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-14 08:55:22] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-14 08:55:22] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"command":"run_diagnostics","level":"1"} -> Target: ARC_MED_DOOR001
+[2025-08-14 08:55:27] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-14 08:55:32] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-14 08:55:32] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"command":"run_diagnostics","level":"1"} -> Target: ARC_MED_DOOR001
+[2025-08-14 08:55:37] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-14 08:55:42] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-14 08:55:42] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"command":"run_diagnostics","level":"1"} -> Target: ARC_MED_DOOR001
+[2025-08-14 08:55:47] [apollo_mainframe::ui] [AUTH] Successful login for user 'Administrator'
+[2025-08-14 08:55:47] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal

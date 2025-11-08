@@ -1,0 +1,500 @@
+[2025-08-21 06:35:23] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:35:28] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:35:28] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:35:33] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:35:38] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:35:38] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:35:43] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:35:48] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:35:48] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:35:53] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:35:58] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:35:58] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:36:03] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:36:08] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:36:08] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:36:13] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:36:18] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:36:18] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:36:23] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:36:28] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:36:28] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:36:33] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:36:38] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:36:38] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:36:43] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:36:48] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:36:48] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:36:53] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:36:58] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:36:58] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:37:03] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:37:08] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:37:08] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:37:13] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:37:18] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:37:18] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:37:23] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:37:28] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:37:28] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:37:33] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:37:38] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:37:38] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:37:43] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:37:48] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:37:48] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:37:53] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:37:58] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:37:58] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:38:03] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:38:08] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:38:08] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:38:13] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:38:18] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:38:18] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:38:23] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:38:28] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:38:28] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:38:33] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:38:38] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:38:38] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:38:43] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:38:48] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:38:48] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:38:53] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:38:58] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:38:58] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:39:03] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:39:08] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:39:08] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:39:13] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:39:18] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:39:18] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:39:23] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:39:28] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:39:28] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:39:33] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:39:38] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:39:38] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:39:43] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:39:48] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:39:48] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:39:53] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:39:58] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:39:58] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:40:03] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:40:08] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:40:08] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:40:13] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:40:18] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:40:18] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:40:23] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:40:28] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:40:28] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:40:33] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:40:38] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:40:38] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:40:43] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:40:48] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:40:48] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:40:53] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:40:58] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:40:58] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:41:03] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:41:08] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:41:08] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:41:13] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:41:18] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:41:18] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:41:23] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:41:28] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:41:28] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:41:33] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:41:38] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:41:38] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:41:43] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:41:48] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:41:48] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:41:53] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:41:58] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:41:58] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:42:03] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:42:08] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:42:08] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:42:13] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:42:18] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:42:18] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:42:23] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:42:28] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:42:28] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:42:33] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:42:38] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:42:38] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:42:43] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:42:48] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:42:48] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:42:53] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:42:58] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:42:58] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:43:03] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:43:08] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:43:08] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:43:13] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:43:18] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:43:18] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:43:23] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:43:29] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:43:29] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:43:33] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:43:39] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:43:39] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:43:44] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:43:49] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:43:49] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:43:54] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:43:59] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:43:59] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:44:04] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:44:09] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:44:09] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:44:14] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:44:19] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:44:19] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:44:24] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:44:29] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:44:29] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:44:34] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:44:39] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:44:39] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:44:44] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:44:49] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:44:49] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:44:54] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:44:59] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:44:59] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:45:04] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:45:09] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:45:09] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:45:14] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:45:19] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:45:19] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:45:24] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:45:29] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:45:29] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:45:34] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:45:39] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:45:39] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:45:44] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:45:49] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:45:49] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:45:54] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:45:59] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:45:59] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:46:04] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:46:09] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:46:09] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:46:14] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:46:19] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:46:19] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:46:24] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:46:29] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:46:29] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:46:34] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:46:39] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:46:39] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:46:44] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:46:49] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:46:49] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:46:54] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:46:59] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:46:59] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:47:04] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:47:09] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:47:09] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:47:14] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:47:19] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:47:19] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:47:24] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:47:29] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:47:29] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:47:34] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:47:39] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:47:39] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:47:44] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:47:49] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:47:49] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:47:54] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:47:59] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:47:59] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:48:04] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:48:09] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:48:09] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:48:14] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:48:19] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:48:19] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:48:24] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:48:29] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:48:29] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:48:34] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:48:39] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:48:39] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:48:44] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:48:49] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:48:49] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:48:54] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:48:59] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:48:59] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:49:04] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:49:09] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:49:09] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:49:14] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:49:19] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:49:19] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:49:24] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:49:29] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:49:29] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:49:34] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:49:39] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:49:39] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:49:44] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:49:49] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:49:49] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:49:54] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:49:59] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:49:59] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:50:04] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:50:09] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:50:09] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:50:14] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:50:19] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:50:19] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:50:24] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:50:29] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:50:29] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:50:34] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:50:39] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:50:39] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:50:44] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:50:49] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:50:49] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:50:54] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:50:59] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:50:59] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:51:04] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:51:10] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:51:10] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:51:15] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:51:19] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:51:19] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:51:24] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:51:29] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:51:29] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:51:34] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:51:40] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:51:40] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:51:45] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:51:50] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:51:50] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:51:55] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:52:00] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:52:00] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:52:05] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:52:10] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:52:10] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:52:15] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:52:20] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:52:20] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:52:25] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:52:30] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:52:30] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:52:35] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:52:40] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:52:40] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:52:45] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:52:50] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:52:50] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:52:55] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:53:00] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:53:00] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:53:05] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:53:10] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:53:10] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:53:15] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:53:20] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:53:20] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:53:25] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:53:30] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:53:30] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:53:35] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:53:40] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:53:40] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:53:45] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:53:50] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:53:50] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:53:55] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:54:00] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:54:00] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:54:05] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:54:10] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:54:10] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:54:15] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:54:20] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:54:20] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:54:25] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:54:30] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:54:30] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:54:35] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:54:40] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:54:40] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:54:45] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:54:50] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:54:50] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:54:55] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:55:00] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:55:00] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:55:05] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:55:10] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:55:10] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:55:15] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:55:20] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:55:20] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:55:25] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:55:30] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:55:30] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:55:35] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:55:40] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:55:40] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:55:45] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:55:50] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:55:50] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:55:55] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:56:00] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:56:00] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:56:05] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:56:10] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:56:10] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:56:15] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:56:20] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:56:20] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:56:25] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:56:30] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:56:30] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:56:35] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:56:40] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:56:40] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:56:45] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:56:50] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:56:50] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:56:55] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:57:00] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:57:00] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:57:05] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:57:10] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:57:10] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:57:15] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:57:20] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:57:20] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:57:25] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:57:30] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:57:30] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:57:35] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:57:40] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:57:40] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:57:45] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:57:50] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:57:50] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:57:55] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:58:00] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:58:00] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:58:05] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:58:10] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:58:10] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:58:15] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:58:20] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:58:20] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:58:25] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:58:30] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:58:30] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:58:35] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:58:40] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:58:40] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:58:45] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:58:50] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:58:50] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:58:55] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:59:00] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:59:00] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:59:05] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:59:11] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:59:11] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:59:15] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:59:20] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:59:20] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:59:25] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:59:31] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:59:31] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:59:36] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:59:40] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:59:40] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:59:46] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 06:59:51] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 06:59:51] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 06:59:56] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:00:01] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:00:01] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:00:06] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:00:11] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:00:11] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:00:16] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:00:21] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:00:21] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:00:26] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:00:31] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:00:31] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:00:36] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:00:41] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:00:41] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:00:46] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:00:51] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:00:51] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:00:56] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:01:01] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:01:01] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:01:06] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:01:11] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:01:11] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:01:16] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:01:21] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:01:21] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:01:26] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:01:31] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:01:31] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:01:36] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:01:41] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:01:41] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:01:46] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:01:51] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:01:51] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:01:56] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:02:01] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:02:01] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:02:06] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:02:11] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:02:11] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:02:16] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:02:21] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:02:21] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:02:26] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:02:31] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:02:31] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:02:36] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:02:41] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:02:41] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:02:46] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:02:51] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:02:51] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:02:56] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal
+[2025-08-21 07:02:59] [apollo_mainframe::ui] [AUTH] Successful login for user 'Administrator'
+[2025-08-21 07:03:01] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Operational
+[2025-08-21 07:03:01] [apollo_mainframe::grpc] [DIRECTIVE] Triggered for 'ARC_MED_DOOR001' -> Command: {"name":"run_diagnostics","priority":"LOW","has_level":true,"level":1} -> Target: ARC_MED_DOOR001
+[2025-08-21 07:03:06] [apollo_mainframe::grpc] [gRPC] Status from 'ARC_MED_DOOR001': Nominal

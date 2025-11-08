@@ -1,0 +1,224 @@
+{
+  "plugins": {
+    "ARC": {
+      "directives": [
+        {
+          "if_status_is": "NETWORK_DISCONNECTED",
+          "then_command_target": "ARC",
+          "then_command_json": "{\"name\":\"REBOOT\",\"priority\":\"HIGH\",\"has_level\":true,\"level\":5}"
+        },
+        {
+          "if_status_is": "[HEARTBEAT]",
+          "then_command_target": "ARC",
+          "then_command_json": "{\"name\":\"Acknowledge Heartbeat\",\"priority\":\"LOW\",\"has_level\":false,\"level\":0}"
+        }
+      ],
+      "subsections": {
+        "MED": {
+          "directives": [
+            {
+              "if_status_is": "LOCKDOWN_MODE_ACTIVE",
+              "then_command_target": "ARC_MED",
+              "then_command_json": "{\"name\":\"ACTIVATE_LOCKDOWN\",\"priority\":\"HIGH\",\"has_level\":true,\"level\":5}"
+            },
+            {
+              "if_status_is": "LOCKDOWN_MODE_INACTIVE",
+              "then_command_target": "ARC_MED",
+              "then_command_json": "{\"name\":\"DEACTIVATE_LOCKDOWN\",\"priority\":\"MED\",\"has_level\":false,\"level\":0}"
+            }
+          ],
+          "entities": {
+            "DOOR002": {
+              "directives": [
+                {
+                  "if_status_is": "DOOR_OPEN",
+                  "then_command_target": "ARC_MED_DOOR002",
+                  "then_command_json": "{\"name\":\"OPEN_DOOR\",\"priority\":\"LOW\",\"has_level\":false,\"level\":0}"
+                },
+                {
+                  "if_status_is": "DOOR_CLOSED",
+                  "then_command_target": "ARC_MED_DOOR002",
+                  "then_command_json": "{\"name\":\"CLOSE_DOOR\",\"priority\":\"LOW\",\"has_level\":false,\"level\":0}"
+                },
+                {
+                  "if_status_is": "DOOR_UNLOCKED",
+                  "then_command_target": "ARC_MED_DOOR002",
+                  "then_command_json": "{\"name\":\"UNLOCK_DOOR\",\"priority\":\"MED\",\"has_level\":false,\"level\":0}"
+                },
+                {
+                  "if_status_is": "DOOR_LOCKED",
+                  "then_command_target": "ARC_MED_DOOR002",
+                  "then_command_json": "{\"name\":\"LOCK_DOOR\",\"priority\":\"MED\",\"has_level\":false,\"level\":0}"
+                }
+              ]
+            },
+            "DOOR001": {
+              "directives": [
+                {
+                  "if_status_is": "Operational",
+                  "then_command_target": "ARC_MED_DOOR001",
+                  "then_command_json": "{\"name\":\"run_diagnostics\",\"priority\":\"LOW\",\"has_level\":true,\"level\":1}"
+                },
+                {
+                  "if_status_is": "DOOR_OPEN",
+                  "then_command_target": "ARC_MED_DOOR001",
+                  "then_command_json": "{\"name\":\"OPEN_DOOR\",\"priority\":\"LOW\",\"has_level\":false,\"level\":0}"
+                },
+                {
+                  "if_status_is": "DOOR_CLOSED",
+                  "then_command_target": "ARC_MED_DOOR001",
+                  "then_command_json": "{\"name\":\"CLOSE_DOOR\",\"priority\":\"LOW\",\"has_level\":false,\"level\":0}"
+                },
+                {
+                  "if_status_is": "DOOR_UNLOCKED",
+                  "then_command_target": "ARC_MED_DOOR001",
+                  "then_command_json": "{\"name\":\"UNLOCK_DOOR\",\"priority\":\"MED\",\"has_level\":false,\"level\":0}"
+                },
+                {
+                  "if_status_is": "DOOR_LOCKED",
+                  "then_command_target": "ARC_MED_DOOR001",
+                  "then_command_json": "{\"name\":\"LOCK_DOOR\",\"priority\":\"MED\",\"has_level\":false,\"level\":0}"
+                }
+              ]
+            },
+            "DOOR005": {
+              "directives": [
+                {
+                  "if_status_is": "DOOR_OPEN",
+                  "then_command_target": "ARC_MED_DOOR005",
+                  "then_command_json": "{\"name\":\"OPEN_DOOR\",\"priority\":\"LOW\",\"has_level\":false,\"level\":0}"
+                },
+                {
+                  "if_status_is": "DOOR_CLOSED",
+                  "then_command_target": "ARC_MED_DOOR005",
+                  "then_command_json": "{\"name\":\"CLOSE_DOOR\",\"priority\":\"LOW\",\"has_level\":false,\"level\":0}"
+                },
+                {
+                  "if_status_is": "DOOR_UNLOCKED",
+                  "then_command_target": "ARC_MED_DOOR005",
+                  "then_command_json": "{\"name\":\"UNLOCK_DOOR\",\"priority\":\"MED\",\"has_level\":false,\"level\":0}"
+                },
+                {
+                  "if_status_is": "DOOR_LOCKED",
+                  "then_command_target": "ARC_MED_DOOR005",
+                  "then_command_json": "{\"name\":\"LOCK_DOOR\",\"priority\":\"MED\",\"has_level\":false,\"level\":0}"
+                }
+              ]
+            },
+            "DOOR003": {
+              "directives": [
+                {
+                  "if_status_is": "DOOR_OPEN",
+                  "then_command_target": "ARC_MED_DOOR003",
+                  "then_command_json": "{\"name\":\"OPEN_DOOR\",\"priority\":\"LOW\",\"has_level\":false,\"level\":0}"
+                },
+                {
+                  "if_status_is": "DOOR_CLOSED",
+                  "then_command_target": "ARC_MED_DOOR003",
+                  "then_command_json": "{\"name\":\"CLOSE_DOOR\",\"priority\":\"LOW\",\"has_level\":false,\"level\":0}"
+                },
+                {
+                  "if_status_is": "DOOR_UNLOCKED",
+                  "then_command_target": "ARC_MED_DOOR003",
+                  "then_command_json": "{\"name\":\"UNLOCK_DOOR\",\"priority\":\"MED\",\"has_level\":false,\"level\":0}"
+                },
+                {
+                  "if_status_is": "DOOR_LOCKED",
+                  "then_command_target": "ARC_MED_DOOR003",
+                  "then_command_json": "{\"name\":\"LOCK_DOOR\",\"priority\":\"MED\",\"has_level\":false,\"level\":0}"
+                }
+              ]
+            },
+            "DOOR004": {
+              "directives": [
+                {
+                  "if_status_is": "DOOR_OPEN",
+                  "then_command_target": "ARC_MED_DOOR004",
+                  "then_command_json": "{\"name\":\"OPEN_DOOR\",\"priority\":\"LOW\",\"has_level\":false,\"level\":0}"
+                },
+                {
+                  "if_status_is": "DOOR_CLOSED",
+                  "then_command_target": "ARC_MED_DOOR004",
+                  "then_command_json": "{\"name\":\"CLOSE_DOOR\",\"priority\":\"LOW\",\"has_level\":false,\"level\":0}"
+                },
+                {
+                  "if_status_is": "DOOR_UNLOCKED",
+                  "then_command_target": "ARC_MED_DOOR004",
+                  "then_command_json": "{\"name\":\"UNLOCK_DOOR\",\"priority\":\"MED\",\"has_level\":false,\"level\":0}"
+                },
+                {
+                  "if_status_is": "DOOR_LOCKED",
+                  "then_command_target": "ARC_MED_DOOR004",
+                  "then_command_json": "{\"name\":\"LOCK_DOOR\",\"priority\":\"MED\",\"has_level\":false,\"level\":0}"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "COMMS": {
+      "directives": [],
+      "subsections": {}
+    },
+    "LSS": {
+      "directives": [],
+      "subsections": {
+        "MAIN": {
+          "directives": [],
+          "entities": {
+            "SCRUBBERS": {
+              "directives": []
+            }
+          }
+        }
+      }
+    },
+    "SEC": {
+      "directives": [
+        {
+          "if_status_is": "Offline",
+          "then_command_target": "SEC",
+          "then_command_json": "{\"command\":\"reboot\",\"priority\":\"high\"}"
+        }
+      ],
+      "subsections": {
+        "ENG": {
+          "directives": [
+            {
+              "if_status_is": "Operational",
+              "then_command_target": "ARC",
+              "then_command_json": "{\"command\":\"seal_all_vents\", \"priority\":\"critical\"}"
+            },
+            {
+              "if_status_is": "SPECIAL_DIRECTIVE_001",
+              "then_command_target": "SEC_ENG",
+              "then_command_json": "{\"name\":\"CONTAINMENT\",\"priority\":\"HIGH\",\"has_level\":true,\"level\":5}"
+            }
+          ],
+          "entities": {
+            "CAM001": {
+              "directives": [
+                {
+                  "if_status_is": "Error",
+                  "then_command_target": "SEC_ENG_CAM001",
+                  "then_command_json": "{\"command\":\"reboot\",\"priority\":\"high\"}"
+                },
+                {
+                  "if_status_is": "Operational",
+                  "then_command_target": "SEC_ENG_CAM001",
+                  "then_command_json": "{\"command\":\"reboot\",\"priority\":\"high\"}"
+                },
+                {
+                  "if_status_is": "SPECIAL_DIRECTIVE_001",
+                  "then_command_target": "SEC_ENG_CAM001",
+                  "then_command_json": "{\"name\":\"CONTAINMENT\",\"priority\":\"HIGH\",\"has_level\":true,\"level\":5}"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

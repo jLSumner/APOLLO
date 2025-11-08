@@ -1,0 +1,5 @@
+[2025-11-04 18:47:05][apollo_mainframe::ui][WARN] [AUTH] Failed login attempt for user 'Administrator'
+[2025-11-04 18:47:15][apollo_mainframe::ui][INFO] [AUTH] Successful login for user 'Administrator'
+[2025-11-04 18:47:18][apollo_mainframe::ui][INFO] [AUTH] User logged out
+[2025-11-04 20:57:54][apollo_mainframe::ui][INFO] [AUTH] Successful login for user 'Administrator'
+[2025-11-04 20:59:44][apollo_mainframe::ui][INFO] [AUTH] User logged out

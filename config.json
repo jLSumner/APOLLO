@@ -1,0 +1,346 @@
+{
+  "plugins": {
+    "LSM": {
+      "auth_key": "-2000-",
+      "subsections": {
+        "MED": {
+          "auth_key": "-2200-",
+          "entities": {}
+        },
+        "ENG": {
+          "auth_key": "-2300-",
+          "entities": {}
+        },
+        "LAB": {
+          "auth_key": "-2500-",
+          "entities": {}
+        },
+        "GR": {
+          "auth_key": "-2400-",
+          "entities": {}
+        },
+        "HAB": {
+          "auth_key": "-2100-",
+          "entities": {}
+        }
+      }
+    },
+    "EMC": {
+      "auth_key": "-11000-",
+      "subsections": {
+        "CMD": {
+          "auth_key": "-11100-",
+          "entities": {}
+        },
+        "MED": {
+          "auth_key": "-11300-",
+          "entities": {}
+        },
+        "EVAC": {
+          "auth_key": "-11200-",
+          "entities": {}
+        }
+      }
+    },
+    "SDM": {
+      "auth_key": "-4000-",
+      "subsections": {
+        "HGR": {
+          "auth_key": "-4200-",
+          "entities": {}
+        },
+        "DOCK": {
+          "auth_key": "-4100-",
+          "entities": {}
+        },
+        "CARGO": {
+          "auth_key": "-4300-",
+          "entities": {}
+        }
+      }
+    },
+    "NAV": {
+      "auth_key": "-10000-",
+      "subsections": {
+        "CMD": {
+          "auth_key": "-10100-",
+          "entities": {}
+        },
+        "ENG": {
+          "auth_key": "-10300-",
+          "entities": {}
+        },
+        "EXT": {
+          "auth_key": "-10200-",
+          "entities": {}
+        }
+      }
+    },
+    "SSM": {
+      "auth_key": "-5000-",
+      "subsections": {
+        "CMD": {
+          "auth_key": "-5100-",
+          "entities": {}
+        },
+        "DOCK": {
+          "auth_key": "-5500-",
+          "entities": {}
+        },
+        "HAB": {
+          "auth_key": "-5200-",
+          "entities": {}
+        },
+        "ENG": {
+          "auth_key": "-5300-",
+          "entities": {}
+        },
+        "CARGO": {
+          "auth_key": "-5400-",
+          "entities": {}
+        }
+      }
+    },
+    "RDM": {
+      "auth_key": "-12000-",
+      "subsections": {
+        "LAB2": {
+          "auth_key": "-12200-",
+          "entities": {}
+        },
+        "LAB": {
+          "auth_key": "-12100-",
+          "entities": {}
+        }
+      }
+    },
+    "TEST": {
+      "auth_key": "-787-",
+      "subsections": {}
+    },
+    "PDM": {
+      "auth_key": "-3000-",
+      "subsections": {
+        "DOCK": {
+          "auth_key": "-3500-",
+          "entities": {}
+        },
+        "ENG": {
+          "auth_key": "-3200-",
+          "entities": {}
+        },
+        "LAB": {
+          "auth_key": "-3400-",
+          "entities": {}
+        },
+        "HAB": {
+          "auth_key": "-3300-",
+          "entities": {}
+        },
+        "CMD": {
+          "auth_key": "-3100-",
+          "entities": {}
+        }
+      }
+    },
+    "RSM": {
+      "auth_key": "-8000-",
+      "subsections": {
+        "SUP": {
+          "auth_key": "-8200-",
+          "entities": {}
+        },
+        "CARGO": {
+          "auth_key": "-8100-",
+          "entities": {}
+        },
+        "AGR": {
+          "auth_key": "-8300-",
+          "entities": {}
+        }
+      }
+    },
+    "COM": {
+      "auth_key": "-7000-",
+      "subsections": {
+        "DOCK": {
+          "auth_key": "-7200-",
+          "entities": {}
+        },
+        "CMD": {
+          "auth_key": "-7100-",
+          "entities": {}
+        },
+        "LAB": {
+          "auth_key": "-7400-",
+          "entities": {}
+        },
+        "EXT": {
+          "auth_key": "-7300-",
+          "entities": {}
+        }
+      }
+    },
+    "FSM": {
+      "auth_key": "-9000-",
+      "subsections": {
+        "LAB": {
+          "auth_key": "-9400-",
+          "entities": {}
+        },
+        "CARGO": {
+          "auth_key": "-9300-",
+          "entities": {}
+        },
+        "ENG": {
+          "auth_key": "-9200-",
+          "entities": {}
+        },
+        "HAB": {
+          "auth_key": "-9100-",
+          "entities": {}
+        }
+      }
+    },
+    "SIM": {
+      "auth_key": "-6000-",
+      "subsections": {
+        "EXT": {
+          "auth_key": "-6200-",
+          "entities": {}
+        },
+        "ENG": {
+          "auth_key": "-6100-",
+          "entities": {}
+        },
+        "CARGO": {
+          "auth_key": "-6300-",
+          "entities": {}
+        },
+        "HAB": {
+          "auth_key": "-6400-",
+          "entities": {}
+        }
+      }
+    },
+    "ARC": {
+      "auth_key": "-1000-",
+      "subsections": {
+        "HAB": {
+          "auth_key": "-1300-",
+          "entities": {
+            "DOOR001": {
+              "auth_key": "-DA-"
+            },
+            "DOOR002": {
+              "auth_key": "-DB-"
+            },
+            "VENT001": {
+              "auth_key": "-VA-"
+            }
+          }
+        },
+        "ENG": {
+          "auth_key": "-1200-",
+          "entities": {
+            "DOOR001": {
+              "auth_key": "-DA-"
+            },
+            "VENT003": {
+              "auth_key": "-VC-"
+            },
+            "VENT002": {
+              "auth_key": "-VB-"
+            },
+            "VENT001": {
+              "auth_key": "-VA-"
+            }
+          }
+        },
+        "DOCK": {
+          "auth_key": "-1500-",
+          "entities": {
+            "DOOR004": {
+              "auth_key": "-DD-"
+            },
+            "DOOR005": {
+              "auth_key": "-DE-"
+            },
+            "DOOR002": {
+              "auth_key": "-DB-"
+            },
+            "DOOR008": {
+              "auth_key": "-DH-"
+            },
+            "DOOR007": {
+              "auth_key": "-DG-"
+            },
+            "DOOR001": {
+              "auth_key": "-DA-"
+            },
+            "DOOR006": {
+              "auth_key": "-DF-"
+            },
+            "DOOR003": {
+              "auth_key": "-DC-"
+            }
+          }
+        },
+        "CMD": {
+          "auth_key": "-1400-",
+          "entities": {
+            "DOOR003": {
+              "auth_key": "-DC-"
+            },
+            "DOOR002": {
+              "auth_key": "-DB-"
+            },
+            "VENT002": {
+              "auth_key": "-VB-"
+            },
+            "VENT001": {
+              "auth_key": "-VA-"
+            },
+            "DOOR001": {
+              "auth_key": "-DA-"
+            }
+          }
+        },
+        "MED": {
+          "auth_key": "-1100-",
+          "entities": {
+            "VENT002": {
+              "auth_key": "-VB-"
+            },
+            "DOOR003": {
+              "auth_key": "-DC-"
+            },
+            "DOOR004": {
+              "auth_key": "-DD-"
+            },
+            "DOOR001": {
+              "auth_key": "-DA-"
+            },
+            "DOOR005": {
+              "auth_key": "-DE-"
+            },
+            "VENT001": {
+              "auth_key": "-VA-"
+            },
+            "DOOR002": {
+              "auth_key": "-DB-"
+            }
+          }
+        },
+        "CARGO": {
+          "auth_key": "-1600-",
+          "entities": {
+            "DOOR001": {
+              "auth_key": "-DA-"
+            }
+          }
+        }
+      }
+    }
+  }
+}

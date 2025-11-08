@@ -1,0 +1,35 @@
+// proto/ccp.proto
+syntax = "proto3";
+
+package ccp; // Core Communication Protocol
+
+service CoreConnector {
+  rpc Handshake(HandshakeRequest) returns (HandshakeResponse);
+
+  rpc ReportStatus(stream StatusReport) returns (stream HeartbeatResponse);
+}
+
+message HandshakeRequest {
+  string entity_id = 1;
+  string auth_key = 2;
+}
+
+message HandshakeResponse {
+  string session_token = 1;
+  string message = 2;
+}
+
+
+message StatusReport {
+  string session_token = 1;
+
+  string status = 2;
+
+  string metrics_json = 3;
+}
+
+message HeartbeatResponse {
+  string status = 1;
+  
+  string command_json = 2;
+}

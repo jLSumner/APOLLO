@@ -1,0 +1,50 @@
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Running daily log cleanup task...
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Deleted old log file: APOLLO-2025-08-17.log
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Deleted old log file: APOLLO-2025-08-18.log
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Deleted old log file: APOLLO-2025-08-19.log
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Deleted old log file: APOLLO-2025-08-20.log
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Deleted old log file: APOLLO-2025-08-21.log
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Deleted old log file: APOLLO-2025-08-22.log
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Deleted old log file: APOLLO-2025-08-23.log
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Deleted old log file: APOLLO-2025-08-24.log
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Deleted old log file: APOLLO-2025-08-25.log
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Deleted old log file: APOLLO-2025-08-26.log
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Deleted old log file: APOLLO-2025-08-28.log
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Deleted old log file: APOLLO-2025-08-29.log
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Deleted old log file: APOLLO-2025-08-31.log
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Deleted old log file: APOLLO-2025-09-06.log
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Deleted old log file: APOLLO-2025-09-14.log
+[2025-10-26 09:50:25][apollo_mainframe][INFO] [CORE] Loading APOLLO plugin configuration...
+[2025-10-26 09:50:26][apollo_mainframe][INFO] [CORE] Plugin configuration loaded successfully.
+[2025-10-26 09:50:26][apollo_mainframe][INFO] [CORE] Loading APOLLO directive configuration...
+[2025-10-26 09:50:26][apollo_mainframe][INFO] [CORE] Directive configuration loaded successfully.
+[2025-10-26 09:50:26][apollo_mainframe][INFO] [CORE] Loading APOLLO directive dictionary...
+[2025-10-26 09:50:26][apollo_mainframe][INFO] [CORE] Directive dictionary loaded successfully.
+[2025-10-26 09:50:26][apollo_mainframe][INFO] [CORE] Loading APOLLO security codes...
+[2025-10-26 09:50:26][apollo_mainframe][INFO] [CORE] Security codes loaded successfully.
+[2025-10-26 09:50:26][apollo_mainframe][INFO] [gRPC] Server listening on [::1]:50051
+[2025-10-26 09:50:36][apollo_mainframe::ui][INFO] [AUTH] Successful login for user 'Administrator'
+[2025-10-26 09:51:44][apollo_mainframe][INFO] [CORE] Running daily log cleanup task...
+[2025-10-26 09:51:44][apollo_mainframe][INFO] [CORE] Loading APOLLO plugin configuration...
+[2025-10-26 09:51:44][apollo_mainframe][INFO] [CORE] Plugin configuration loaded successfully.
+[2025-10-26 09:51:44][apollo_mainframe][INFO] [CORE] Loading APOLLO directive configuration...
+[2025-10-26 09:51:44][apollo_mainframe][INFO] [CORE] Directive configuration loaded successfully.
+[2025-10-26 09:51:44][apollo_mainframe][INFO] [CORE] Loading APOLLO directive dictionary...
+[2025-10-26 09:51:44][apollo_mainframe][INFO] [CORE] Directive dictionary loaded successfully.
+[2025-10-26 09:51:44][apollo_mainframe][INFO] [CORE] Loading APOLLO security codes...
+[2025-10-26 09:51:44][apollo_mainframe][INFO] [CORE] Security codes loaded successfully.
+[2025-10-26 09:51:44][apollo_mainframe][INFO] [gRPC] Server listening on [::1]:50051
+[2025-10-26 09:52:16][apollo_mainframe::ui][INFO] [AUTH] Successful login for user 'Administrator'
+[2025-10-26 09:54:02][apollo_mainframe::ui][INFO] [AUTH] User logged out
+[2025-10-26 09:58:47][apollo_mainframe::ui][INFO] [AUTH] Successful login for user 'Administrator'
+[2025-10-26 10:03:56][apollo_mainframe::ui][INFO] [AUTH] User logged out
+[2025-10-26 10:07:07][apollo_mainframe][INFO] [CORE] Running daily log cleanup task...
+[2025-10-26 10:07:07][apollo_mainframe][INFO] [CORE] Loading APOLLO plugin configuration...
+[2025-10-26 10:07:07][apollo_mainframe][INFO] [CORE] Plugin configuration loaded successfully.
+[2025-10-26 10:07:07][apollo_mainframe][INFO] [CORE] Loading APOLLO directive configuration...
+[2025-10-26 10:07:07][apollo_mainframe][INFO] [CORE] Directive configuration loaded successfully.
+[2025-10-26 10:07:07][apollo_mainframe][INFO] [CORE] Loading APOLLO directive dictionary...
+[2025-10-26 10:07:07][apollo_mainframe][INFO] [CORE] Directive dictionary loaded successfully.
+[2025-10-26 10:07:07][apollo_mainframe][INFO] [CORE] Loading APOLLO security codes...
+[2025-10-26 10:07:07][apollo_mainframe][INFO] [CORE] Security codes loaded successfully.
+[2025-10-26 10:07:07][apollo_mainframe][INFO] [gRPC] Server listening on [::1]:50051
