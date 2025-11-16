@@ -5,6 +5,7 @@ mod ui;
 mod logging;
 mod core;
 mod grpc;
+mod auth;
 
 use state::app_state::ApolloState;
 use state::config::Config;
