@@ -42,6 +42,7 @@ pub async fn run(
     dictionary_manager: Arc<TokioMutex<DictionaryManager>>,
     config_manager: Arc<TokioMutex<ConfigManager>>,
     security_codes: Arc<SecurityCodes>,
+	auth_config: Arc<TokioMutex<crate::auth::AuthConfig>>,
 ) -> io::Result<()> {
     let mut stdout = io::stdout();
     execute!(stdout, EnterAlternateScreen)?;
@@ -161,6 +162,7 @@ pub async fn run(
                         &log_buffer,
                         dictionary_manager.clone(),
                         security_codes.clone(),
+						auth_config.clone(), 
                     );
                     if key.code == KeyCode::Esc {
                         break;
@@ -187,6 +189,7 @@ fn handle_key_press(
     log_buffer: &LogBuffer,
     dictionary_manager: Arc<TokioMutex<DictionaryManager>>,
     security_codes: Arc<SecurityCodes>,
+	auth_config: Arc<TokioMutex<crate::auth::AuthConfig>>,
 ) {
     if app.wip_action.is_some() {
         handle_secure_confirmation(app, key, engine, config_manager, dictionary_manager, security_codes);
@@ -194,7 +197,7 @@ fn handle_key_press(
     }
 
     match app.mode {
-        AppMode::Login => handle_login_keys(app, key),
+        AppMode::Login => handle_login_keys(app, key, &auth_config),
         AppMode::Authenticated => handle_authenticated_keys(
             app,
             key,
@@ -210,19 +213,47 @@ fn handle_key_press(
     }
 }
 
-fn handle_login_keys(app: &mut App, key: KeyEvent) {
+fn handle_login_keys(
+    app: &mut App,
+    key: KeyEvent,
+    auth_config: &Arc<TokioMutex<crate::auth::AuthConfig>>,
+) {
     match key.code {
         KeyCode::Enter => {
-            let username = app.username_input.value();
-            let password = app.password_input.value();
-            if username == "Administrator" && password == "Treadstone71!" {
-                log::info!("[AUTH] Successful login for user '{}'", username);
-                app.mode = AppMode::Authenticated;
-                app.login_error = None;
+            let username = app.username_input.value().to_string();
+            let password = app.password_input.value().to_string();
+            
+            // We need to check auth but we're in a sync context
+            // Temporarily use a simple approach: spawn task and check later
+            // For now, use polling approach with try_lock
+            
+            if let Ok(mut config) = auth_config.try_lock() {
+                let is_valid = config.verify_credentials(&username, &password);
+                
+                if is_valid {
+                    log::info!("[AUTH] Successful login for user '{}'", username);
+                    config.update_last_login(&username);
+                    
+                    // Save updated config (spawn task for async save)
+                    let config_clone = config.clone();
+                    tokio::spawn(async move {
+                        if let Err(e) = crate::auth::save_auth_config(&config_clone) {
+                            log::error!("[AUTH] Failed to save login time: {}", e);
+                        }
+                    });
+                    
+                    app.mode = AppMode::Authenticated;
+                    app.login_error = None;
+                } else {
+                    log::warn!("[AUTH] Failed login attempt for user '{}'", username);
+                    app.login_error = Some("ACCESS DENIED".to_string());
+                }
             } else {
-                log::warn!("[AUTH] Failed login attempt for user '{}'", username);
-                app.login_error = Some("ACCESS DENIED".to_string());
+                // Couldn't acquire lock - shouldn't happen but handle gracefully
+                log::error!("[AUTH] Could not acquire auth config lock");
+                app.login_error = Some("SYSTEM ERROR - Please try again".to_string());
             }
+            
             app.username_input.reset();
             app.password_input.reset();
             app.focus = LoginFocus::Username;

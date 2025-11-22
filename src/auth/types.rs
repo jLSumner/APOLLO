@@ -6,8 +6,7 @@ use std::collections::HashMap;
 #[derive(Serialize, Deserialize, Clone, Debug)]
 pub struct Administrator {
     pub username: String,
-    #[serde(skip_serializing)]  // Don't accidentally log password hash
-    pub password_hash: String,
+    pub password_hash: String,  // ← No attribute here
     pub full_name: String,
     pub created_at: String,
     pub last_login: Option<String>,

@@ -5,7 +5,7 @@ mod ui;
 mod logging;
 mod core;
 mod grpc;
-mod auth;
+mod auth;  // ← ADDED
 
 use state::app_state::ApolloState;
 use state::config::Config;
@@ -85,6 +85,23 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let security_codes = Arc::new(SecurityCodes::load_from_file("security_codes.txt")?);
     log::info!("[CORE] Security codes loaded successfully.");
 
+    // ========== AUTHENTICATION SETUP (NEW) ==========
+    log::info!("[CORE] Checking authentication configuration...");
+    let auth_config = if auth::config_exists() {
+        log::info!("[CORE] Loading existing authentication configuration...");
+        auth::load_auth_config()?
+    } else {
+        log::warn!("[CORE] No authentication configuration found.");
+        log::warn!("[CORE] Starting initial administrator setup...");
+        println!("\n"); // Add some space before the setup wizard
+        let config = auth::run_initial_setup()?;
+        auth::save_auth_config(&config)?;
+        log::info!("[CORE] Authentication configuration saved.");
+        config
+    };
+    let auth_config = Arc::new(TokioMutex::new(auth_config));
+    // ================================================
+
     let config_manager = Arc::new(TokioMutex::new(ConfigManager::new(config)));
     let dictionary_manager = Arc::new(TokioMutex::new(DictionaryManager::new(dictionary_data)));
     
@@ -122,7 +139,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         }
     });
 
-    ui::run(log_buffer, app_state, engine, dictionary_manager, config_manager, security_codes).await?;
+    // UPDATED: Pass auth_config to UI
+    ui::run(log_buffer, app_state, engine, dictionary_manager, config_manager, security_codes, auth_config).await?;
 
     Ok(())
 }
